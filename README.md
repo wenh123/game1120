@@ -18,4 +18,4 @@
 
 ## :smile:
 
-![NKFUST]("nkfust.jpg" "NKFUST")
+![NKFUST](nkfust.jpg "NKFUST")
